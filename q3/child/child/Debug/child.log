@@ -1,0 +1,5 @@
+﻿  q2c.c
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\_סמסטר ד\מערכות הפעלה\שב\q3\child\child\q2c.c(17,25): warning C4101: 'pi': unreferenced local variable
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\_סמסטר ד\מערכות הפעלה\שב\q3\child\child\q2c.c(15,11): warning C4101: 'written': unreferenced local variable
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\_סמסטר ד\מערכות הפעלה\שב\q3\child\child\q2c.c(54,15): warning C4047: 'return': 'char' differs in levels of indirection from 'char *'
+  child.vcxproj -> C:\Users\kfirg\OneDrive - Ruppin Academic Center\_סמסטר ד\מערכות הפעלה\שב\q3\child\Debug\child.exe
